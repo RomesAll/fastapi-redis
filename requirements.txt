@@ -15,3 +15,5 @@ psycopg==3.1.10
 psycopg-binary==3.1.12
 fastapi-cache2[redis]
 aiohttp
+redis
+aioredis

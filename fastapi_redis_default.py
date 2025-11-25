@@ -19,4 +19,4 @@ async def startup():
     FastAPICache.init(RedisBackend(redis), prefix='fastapi-cache')
 
 if __name__ == '__main__':
-    uvicorn.run("main:app", reload=True)
+    uvicorn.run("fastapi_redis_default:app", reload=True)
