@@ -1,5 +1,5 @@
 '''
-Урок 2: https://www.youtube.com/watch?v=49Je2gsonyM&list=PLF4MWzDJPFSbY5TxSdq3DMPSL7ke51u93&index=2\
+Урок 2: https://www.youtube.com/watch?v=49Je2gsonyM&list=PLF4MWzDJPFSbY5TxSdq3DMPSL7ke51u93&index=2
 
 '''
 
