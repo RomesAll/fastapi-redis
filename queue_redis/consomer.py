@@ -1,5 +1,5 @@
 import redis
-import time
+import time, json
 
 connection = redis.Redis(
 	port=6379, # стандартный порт для подключения к Redis без SSL
